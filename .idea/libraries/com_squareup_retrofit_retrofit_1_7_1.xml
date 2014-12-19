@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="com.squareup.retrofit:retrofit:1.7.1" type="repository">
+    <properties maven-id="com.squareup.retrofit:retrofit:1.7.1" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/squareup/retrofit/retrofit/1.7.1/retrofit-1.7.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.3/gson-2.3.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/squareup/retrofit/retrofit/1.7.1/retrofit-1.7.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
